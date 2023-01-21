@@ -5,6 +5,6 @@ I'm Kalpa kavindu and I'm a Student, Web Developer, Co-Worker and Open source en
 
 - 📧 Email me: [kalpadevonline@gmail.com](mailto://kalpadevonline@gmail.com)
 
-[![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=kalpa-dev&show_icons=true&hide=issues&theme=transparent)](https://gist.github.com/kalpa-dev)
+[![GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=kalpakavindu&show_icons=true&hide=issues&theme=transparent)](https://gist.github.com/kalpakavindu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpa-dev&layout=compact&theme=transparent)](https://gist.github.com/kalpa-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpakavindu&layout=compact&theme=transparent)](https://gist.github.com/kalpakavindu)
