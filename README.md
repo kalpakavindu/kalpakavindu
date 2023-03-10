@@ -26,4 +26,5 @@ I'm a student with talent in various fields such as Full stack web development ğ
 ### ğŸ“Š Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kalpakavindu&show_icons=true&theme=gotham" alt="kalpa kavindu github stats" width="auto" align="left" style="margin:20px 0;" height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpakavindu&layout=compact&theme=gotham" alt="kalpa kavindu top languages" width="auto" height="200px" align="right" style="margin:20px 0;" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpakavindu&layout=compact&theme=gotham" alt="kalpa kavindu top languages" width="auto" height="200px" align="left" style="margin:20px 0;" />
