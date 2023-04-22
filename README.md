@@ -33,7 +33,7 @@ I'm a student with talent in various fields such as Full stack web development ð
 <a href="https://isocpp.org/" target="_blank"> <img align="left" src="./assets/images/cplusplus.svg" alt="C++" height="35px"/></a>
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="./assets/images/python.svg" alt="Python" height="35px"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="./assets/images/vscode.svg" alt="VS Code" height="35px"/></a>
-<a href="https://developer.android.com/studio" target="_blank"> <img align="left" src="./assets/images/androidstudio.svg" alt="Android Studio" height="35px"/></a>
+<!-- <a href="https://developer.android.com/studio" target="_blank"> <img align="left" src="./assets/images/androidstudio.svg" alt="Android Studio" height="35px"/></a> -->
 <a href="https://www.figma.com/" target="_blank"> <img src="./assets/images/figma.svg" alt="Figma" height="35px"/></a>
 
 <br>
