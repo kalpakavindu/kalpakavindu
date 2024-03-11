@@ -5,7 +5,6 @@
 
 I'm a student with talent in various fields such as Full stack web development 🌐, Mobile application development 📱, Graphic design (Beginner Level) 🎨 & Technology 🤖.
 <br/>
-<br/>
 
 
 ### 🧐 More About Me:
