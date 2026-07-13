@@ -14,11 +14,8 @@ Just a curious software developer 😉
 -   💬 &nbsp; Happy to help with anything tech related
 
 
-<br>
+### Languages I used (Last week)
 
-
-<a href="https://github.com/kalpakavindu">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpakavindu&layout=compact&theme=gotham)
-  
-</a>
+<p align="center">
+  <a href="https://devglobe.app/developers/kalpakavindu"><img src="https://devglobe.app/api/card/kalpakavindu/langs-7d.svg?theme=dark" alt="Languages (last 7 days)" width="480"></a>
+</p>
