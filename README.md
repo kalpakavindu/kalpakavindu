@@ -16,6 +16,4 @@ Just a curious software developer 😉
 
 ### Languages I used (Last week)
 
-<p align="center">
-  <a href="https://devglobe.app/developers/kalpakavindu"><img src="https://devglobe.app/api/card/kalpakavindu/langs-7d.svg?theme=dark" alt="Languages (last 7 days)" width="480"></a>
-</p>
+<a href="https://devglobe.app/developers/kalpakavindu"><img src="https://devglobe.app/api/card/kalpakavindu/langs-7d.svg?theme=dark" alt="Languages (last 7 days)" width="480"></a>
